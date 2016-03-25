@@ -23,18 +23,10 @@ FROM
 												count(*) 'number_of_students',
                                                 sum(if(group_students.group_student_tier_id < 5,1,0)) 'T1',
                                                 sum(if(group_students.group_student_tier_id > 4,1,0)) 'DIP_T2_T3',
-												CASE 
-                                                when groups.exited_at is NULL  then sum(if(group_students.exited_at is NULL,1,0))
-                                                else  0
-                                                End 'number_of_active_students',
-												CASE 
-                                                when groups.exited_at is NULL  then sum(if(group_students.exited_at is NULL and group_students.group_student_tier_id < 5,1,0))
-                                                else  0
-                                                End 'Active_T1',
-												CASE 
-                                                when groups.exited_at is NULL  then sum(if(group_students.exited_at is NULL and group_students.group_student_tier_id > 4,1,0))
-                                                else  0
-                                                End 'Active_DIP_T2_T3'
+                                                if(groups.exited_at is NULL, sum(if(group_students.exited_at is NUll, 1, 0)), 0)'number_of_active_students',									
+                                                if(groups.exited_at is NULL,sum(if(group_students.exited_at is NULL and group_students.group_student_tier_id < 5,1,0)),0) 'Active_T1',
+                                                if(groups.exited_at is NULL,sum(if(group_students.exited_at is NULL and group_students.group_student_tier_id > 4,1,0)),0) 'Active_DIP_T2_T3'
+									
                                                 
                                                 
                                         
