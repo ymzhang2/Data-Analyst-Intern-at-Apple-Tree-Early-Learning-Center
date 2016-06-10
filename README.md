@@ -12,7 +12,9 @@
 ####FSG Report
 SQL query for manipulating data to design a report for lead principal teacher to learn student perfromance 
 ####FSG Research Project
-I worked on this project with two statisticians and database developer to refine curriculum
+a spreadsheet created by two statisticians, a database developer and I to refine curriculum
+
+my responsibility for this project is to perform quantitative research analysis on each quesiton and present the findings to stakeholder
 
 The research questions are listed below ordering by their priporities. For each questions, I listed how I manipulate data using SQL and analyzed data using R in a spreadsheet
 
