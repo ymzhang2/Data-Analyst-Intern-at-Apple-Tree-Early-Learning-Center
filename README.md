@@ -9,7 +9,7 @@
 7. Presented my finding to stakeholders and communicated effectively with end users
 8. Worked closely with internal department to drive project success
 
-## Introduction for Attached Samples
+### Introduction for Attached Samples
 ####FSG Report
 a report I created for lead principal teacher to train other teachers
 ####FSG Research Project
