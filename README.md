@@ -1,5 +1,5 @@
 # Data-Analyst-Intern-at-Apple-Tree-Early-Learning-Center
-### My responsibility
+## My responsibility
 1. Wrote complicated SQL queries to manipulate data for further analysis 
 2. Created dashboard reports to assist curriculum designers in learning the effect of curriculum on student performance using Tableau and R
 3. Applied regression analysis, data mining and statistical descriptive using R to help statistician refine curriculum
@@ -9,7 +9,7 @@
 7. Presented my finding to stakeholders and communicated effectively with end users
 8. Worked closely with internal department to drive project success
 
-### Introduction for Attached Samples
+## Introduction for Attached Samples
 ####FSG Report
 a report I created for lead principal teacher to train other teachers
 ####FSG Research Project
