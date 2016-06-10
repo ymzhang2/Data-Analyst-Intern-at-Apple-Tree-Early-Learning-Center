@@ -11,7 +11,7 @@
 
 ## Introduction for Attached Samples
 ####FSG Report
-a report I created for lead principal teacher to train other teachers
+SQL query for manipulating data to design a report for lead principal teacher to learn student perfromance 
 ####FSG Research Project
 I worked on this project with two statisticians and database developer to refine curriculum
 
