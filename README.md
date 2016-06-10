@@ -10,9 +10,12 @@
 8. Worked closely with internal department to drive project success
 
 ## Introduction for Attached Samples
-####FSG Report(created for lead principal teacher to train other teachers)
-####FSG Research Project(I worked on this project with two statisticians and database developer to refine curriculum)
-The research questions are listed below ordering by their priporities. For each questions, I listed how I manipulate data using SQL and analyzed data using R in a spreadsheet. 
+####FSG Report
+a report I created for lead principal teacher to train other teachers
+####FSG Research Project
+I worked on this project with two statisticians and database developer to refine curriculum
+
+The research questions are listed below ordering by their priporities. For each questions, I listed how I manipulate data using SQL and analyzed data using R in a spreadsheet
 
 1. How many times does an exit have to be given? When in a plan are exits given?
 2. What is the average exit time for each plan (T1-T3)?
@@ -28,7 +31,10 @@ The research questions are listed below ordering by their priporities. For each 
 12. Does the rate of changing plans have any relationship with student scores on the PM?
 
 ####LessonPace(a report I created for above research question 2)
-####Reteach Lesson & Student Performance(a dashboard report of T1 Rhyme that I created for curriculumn designer to revise the plan for T1 Rhyme)
+####Reteach Lesson & Student Performance
+a screenshot of the dashboard report of T1 Rhyme that I created for curriculumn designer to revise the curriculum
+####groupstudentInfo_3:28:16
+SQL query for manipulating data to create the above dashboard report
 ####
 
 
