@@ -9,7 +9,7 @@
 7. Presented my finding to stakeholders and communicated effectively with end users
 8. Worked closely with internal department to drive project success
 
-## Attached Samples
+## Introduction for Attached Samples
 ####FSG Report(created for lead principal teacher to train other teachers)
 ####FSG Research Project(I worked on this project with two statisticians and database developer to refine curriculum)
 The research questions are listed below ordering by their priporities. For each questions, I listed how I manipulate data using SQL and analyzed data using R in a spreadsheet. 
