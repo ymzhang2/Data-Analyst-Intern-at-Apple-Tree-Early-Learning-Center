@@ -30,13 +30,13 @@ The research questions are listed below ordering by their priporities. For each 
 12. Does the rate of changing plans have any relationship with student scores on the PM?
 
 ####LessonPace
-a report I created for above research question 2
+a report I created for above FSG Research Project question 2
 ####Reteach Lesson & Student Performance
 a screenshot of the dashboard report of T1 Rhyme that I created for curriculumn designer to revise the curriculum
 ####groupstudentInfo_3:28:16
 SQL query for manipulating data to create the above dashboard report
 ####how_many_exit_should_give__
-a report I created for above research question 1
+a report I created for above FSG Research Project question 1
 
 
 
