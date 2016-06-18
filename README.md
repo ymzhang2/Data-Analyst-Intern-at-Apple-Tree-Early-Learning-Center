@@ -1,7 +1,7 @@
 ## Data-Analyst-Intern-at-Apple-Tree-Early-Learning-Center
 **My responsibility**
-*Wrote complicated SQL queries to manipulate data for further analysis 
-*Created dashboard reports to assist curriculum designers in learning the effect of curriculum on student performance using Tableau and R
+* Wrote complicated SQL queries to manipulate data for further analysis 
+* Created dashboard reports to assist curriculum designers in learning the effect of curriculum on student performance using Tableau and R
 *Applied regression analysis, data mining and statistical descriptive using R to help statistician refine curriculum
 *Cleaned data collected by over 60 teachers using advanced Excel spreadsheet formulas and uploaded the cleaned data into MySQL database
 *Collobrated with database developer to maintain database
