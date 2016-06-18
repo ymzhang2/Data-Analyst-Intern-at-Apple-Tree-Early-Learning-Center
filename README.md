@@ -1,12 +1,12 @@
 ## Data-Analyst-Intern-at-Apple-Tree-Early-Learning-Center
-** My responsibility**
-*1. Wrote complicated SQL queries to manipulate data for further analysis 
-*2. Created dashboard reports to assist curriculum designers in learning the effect of curriculum on student performance using Tableau and R
-*3. Applied regression analysis, data mining and statistical descriptive using R to help statistician refine curriculum
-*4. Cleaned data collected by over 60 teachers using advanced Excel spreadsheet formulas and uploaded the cleaned data into MySQL database
-*5. Collobrated with database developer to maintain database
-*6. Presented my finding to stakeholders and communicated effectively with end users
-*7. Worked closely with internal department to drive project success
+**My responsibility**
+*Wrote complicated SQL queries to manipulate data for further analysis 
+*Created dashboard reports to assist curriculum designers in learning the effect of curriculum on student performance using Tableau and R
+*Applied regression analysis, data mining and statistical descriptive using R to help statistician refine curriculum
+*Cleaned data collected by over 60 teachers using advanced Excel spreadsheet formulas and uploaded the cleaned data into MySQL database
+*Collobrated with database developer to maintain database
+*Presented my finding to stakeholders and communicated effectively with end users
+*Worked closely with internal department to drive project success
 
 ## Introduction for Attached Samples
 **FSG Report**
@@ -18,9 +18,9 @@ my responsibility for this project is to perform quantitative research analysis 
 
 The research questions are listed below ordering by their priporities. For each questions, I listed how I manipulate data using SQL and analyzed data using R in a spreadsheet
 
-*1. How many times does an exit have to be given? When in a plan are exits given?
-*2. What is the average exit time for each plan (T1-T3)?
-*3. Compare exits to PM.
+*How many times does an exit have to be given? When in a plan are exits given?
+*What is the average exit time for each plan (T1-T3)?
+*Compare exits to PM.
 *4. Which plans are most/least used at each quarter/between PM windows, by age?
 *5. What plans are used between each PM window?
 *6. How many times is a lesson repeated? Which plans have the greatest "rate" of reteaching overall?
